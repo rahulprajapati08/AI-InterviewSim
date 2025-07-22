@@ -1,0 +1,11 @@
+langchain
+spacy
+PyMuPDF
+langchain_community
+langchain_ollama
+langchain_core
+langchain_huggingface
+fastapi
+pymongo
+pydantic
+langchain_groq

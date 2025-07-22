@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.vscode/

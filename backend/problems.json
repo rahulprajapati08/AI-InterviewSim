@@ -1,0 +1,19 @@
+[
+  {
+      "title": "Reverse a String",
+      "description": "Write a function that takes a string as input and returns the string reversed.",
+      "function_signature": "def reverse_string(s: str) -> str:"
+  },
+  {
+      "title": "Find Max in List",
+      "description": "Write a function that returns the maximum number in a list of integers.",
+      "function_signature": "def find_max(nums: list[int]) -> int:"
+  },
+  {
+      "title": "Sum of List Elements",
+      "description": "Write a function that returns the sum of all numbers in a list of integers.",
+      "function_signature": "def sum_list(nums: list[int]) -> int:"
+  }
+
+ 
+]
