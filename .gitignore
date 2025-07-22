@@ -10,10 +10,12 @@ venv/
 # Env
 .env
 .env.*
+backend/.env
 
 # Logs
 *.log
 
 # IDE
 .vscode/
+
 

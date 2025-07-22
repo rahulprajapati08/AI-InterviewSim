@@ -9,3 +9,15 @@ fastapi
 pymongo
 pydantic
 langchain_groq
+jose
+passlib
+librosa
+numpy
+certifi
+keyboard
+whisper
+sounddevice
+scipy
+simpleaudio
+gtts
+pydub

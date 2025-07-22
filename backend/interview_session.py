@@ -6,8 +6,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'u
 
 from text_to_speech import speak
 
-from interview_ques_generator import generate_question
-from followup_ques_generator import generate_followup
+
 from vector_memory import VectorMemory
 from memory_interview_chain import memory_chain
 from langchain_core.prompts import ChatPromptTemplate
