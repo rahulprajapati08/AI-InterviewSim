@@ -26,7 +26,8 @@ from routes.user import router as user_router
 
 from langchain_core.prompts import PromptTemplate
 import tempfile
-
+import os
+import uvicorn
 
 app = FastAPI()
 user_sessions = {}
@@ -519,3 +520,7 @@ def get_history(user: str = Depends(get_current_user)):
         history = session.history
 
     return {"history": history}
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run("app:app", host="0.0.0.0", port=port)
