@@ -14,9 +14,9 @@ passlib
 librosa
 numpy
 certifi
-keyboard
+python-multipart
 whisper
-sounddevice
+openai-whisper
 scipy
 simpleaudio
 gtts
