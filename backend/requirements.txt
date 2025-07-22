@@ -21,3 +21,4 @@ scipy
 simpleaudio
 gtts
 pydub
+uvicorn[standard]
