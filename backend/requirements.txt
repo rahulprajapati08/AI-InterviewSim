@@ -22,3 +22,4 @@ simpleaudio
 gtts
 pydub
 uvicorn[standard]
+pydantic[email]
