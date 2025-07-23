@@ -12,7 +12,10 @@ jobs:
     defaults:
       run:
         working-directory: backend  # 👈 Your backend code lives here
-
+    env:
+      DEFAULT_GROQ_API_KEY: ${{ secrets.DEFAULT_GROQ_API_KEY }}
+      DB_NAME: ${{ secrets.DB_NAME }}
+      MONGO_URL: ${{ secrets.MONGO_URL }}
     steps:
       - name: 🔄 Checkout code
         uses: actions/checkout@v3
