@@ -23,3 +23,4 @@ pydub
 uvicorn[standard]
 pydantic[email]
 python-jose[cryptography]
+sentence-transformers
