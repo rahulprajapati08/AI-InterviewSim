@@ -20,3 +20,6 @@ openai-whisper
 scipy
 gtts
 pydub
+uvicorn[standard]
+pydantic[email]
+python-jose[cryptography]
