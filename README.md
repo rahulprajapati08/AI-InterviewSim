@@ -34,11 +34,13 @@ AI InterviewSim is a full-stack AI-powered interview simulation platform designe
 
 ---
 
+
+
+
 ## 🎥 Demo Video
 
+[![Watch the Demo](https://img.youtube.com/vi/ZddswtI6TSs/0.jpg)](https://youtu.be/ZddswtI6TSs)
 
-
-[![Watch the Demo]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/ZddswtI6TSs))
 
 ---
 
