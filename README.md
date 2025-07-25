@@ -27,16 +27,18 @@ AI InterviewSim is a full-stack AI-powered interview simulation platform designe
 
 ## 📸 Screenshots
 
-> _Add your app screenshots here_
+<img width="1920" height="1020" alt="Screenshot 2025-07-24 080006" src="https://github.com/user-attachments/assets/5c469f0a-6272-4734-8228-308788d55477" />
+<img width="1920" height="1020" alt="Screenshot 2025-07-24 080456" src="https://github.com/user-attachments/assets/7b5c2143-50d9-41cb-b004-28cebc72b67c" />
+<img width="1920" height="1020" alt="Screenshot 2025-07-24 080045" src="https://github.com/user-attachments/assets/082634db-628c-4200-a8fb-55db409b08d4" />
 
 
 ---
 
 ## 🎥 Demo Video
 
-> _Add demo video/GIF link here_
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+[![Watch the Demo]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/ZddswtI6TSs))
 
 ---
 
